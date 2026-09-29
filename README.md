@@ -18,14 +18,13 @@ Friend's Shared Folder
 
 ## Features
 
-* 📤 Automatically uploads new files to Google Drive
-* 🔄 Automatically updates files when they are modified
-* 📁 Supports folders and subfolders
-* ⏱️ Checks for changes every 10 seconds
-* 🔐 Uses Google OAuth authentication
-* 💾 Saves synchronization information locally
-* 🕵️ Hides the Google Drive Folder ID in terminal output
-* 🛡️ Does not automatically delete files from Google Drive
+*  Automatically uploads new files to Google Drive
+*  Automatically updates files when they are modified
+*  Supports folders and subfolders
+*  Checks for changes every 10 seconds
+*  Uses Google OAuth authentication
+*  Saves synchronization information locally
+*  Does not automatically delete files from Google Drive
 
 ---
 
@@ -40,25 +39,7 @@ Friend's Shared Folder
 
 # Installation
 
-## 1. Install Python
 
-Download and install Python from the official Python website.
-
-During installation, make sure:
-
-```text
-☑ Add Python to PATH
-```
-
-is enabled.
-
-Check that Python works:
-
-```bat
-py --version
-```
-
----
 
 ## 2. Install Required Packages
 
