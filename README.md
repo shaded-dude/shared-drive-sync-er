@@ -1,6 +1,6 @@
 # Google Drive Sync
 
-A simple Python program that automatically syncs files from a local PC folder to a Google Drive folder.
+A simple Python program that automatically syncs files from a local PC folder to a Shared Google Drive folder.
 
 **Current version:** PC → Google Drive
 
